@@ -1,7 +1,7 @@
 const myName = "Egbujuo Gift";
 const myID = "HNG-04683";
 const myLanguage = "Javascript";
-const myEmail =  "gifftchiedozie@gmail.com"
+const myEmail =  "gifftchiedozie@gmail.com";
 
 //this is my little introduction
 console.log(
