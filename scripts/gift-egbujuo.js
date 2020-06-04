@@ -5,5 +5,5 @@ const myEmail =  "gifftchiedozie@gmail.com"
 
 //this is my little introduction
 console.log(
-  `Hello World, this is ${myName} with HNGi7 ID ${myID} and ${myEmail} using ${myLanguage} for stage 2 task`
+  `Hello World, this is ${myName} with HNGi7 ID ${myID} and email ${myEmail} using ${myLanguage} for stage 2 task`
 );
